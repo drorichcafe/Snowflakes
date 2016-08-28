@@ -1,2 +1,2 @@
 # Snowflakes
-雪
+inspired by https://github.com/dsedb/snowflakes
