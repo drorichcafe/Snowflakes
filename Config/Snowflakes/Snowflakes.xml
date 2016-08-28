@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KeyBoot>F6</KeyBoot>
+  <Particles>16000</Particles>
+  <Range>8</Range>
+  <Size>0.1</Size>
+  <Shader>snow.shader</Shader>
+  <Texture>snow.png</Texture>
+  <PNoiseAmplitude><x>1.0</x><y>0.0</y><z>1.0</z></PNoiseAmplitude>
+  <PNoiseFrequency><x>0.1</x><y>0.0</y><z>0.1</z></PNoiseFrequency>
+  <PNoiseOffsetU><x>0.0</x><y>0.0</y><z>0.0</z></PNoiseOffsetU>
+  <PNoiseOffsetV><x>0.0</x><y>0.0</y><z>0.0</z></PNoiseOffsetV>
+  <FixedVector><x>0.0</x><y>-1.0</y><z>0.0</z></FixedVector>
+</Config>
